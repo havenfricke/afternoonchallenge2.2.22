@@ -1,0 +1,41 @@
+header{
+  height: 100vh;
+  width: auto;
+}
+
+
+.header-row{
+  height: 100%;
+  width: 100%;
+}
+
+main{
+  height: 100%;
+  width:auto;
+  background-color: rgb(10, 200, 233);
+}
+
+a{
+  height: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-font{
+  font-family: 'Roboto Mono', monospace;
+}
+
+.not-here{
+  color: rgba(240, 248, 255, 0);
+}
+
+.img-shrink{
+height: 5%;
+width: auto;
+}
+
